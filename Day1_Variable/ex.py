@@ -32,7 +32,20 @@ complex
 string
 '''
 i=10
-print(type(i))
+#conversion of int to float
+s1=float(10)
+print(type(s1))
+#conversion of int to str
+s2=str(10)
+print(type(s2))
+j=True
+print(type(j))
+
+
+
+
+
+'''print(type(i))
 f=10.25
 print(type(f))
 s='sting'
@@ -41,8 +54,6 @@ b=True
 print(type(b))
 c=10+11j
 print(type(c))
-
-
 print(hex(10))
 print(oct(10))
 print(int(10))
@@ -51,5 +62,14 @@ s1=float(10)
 print(s1)
 print(type(s1))
 print('hello')
-print('my friend sudhamshu ❤️❤️❤️❤️❤️ forever ')
-print('my friend gym man ❤️❤️❤️❤️❤️ forever ')
+print('my friend sudhamsu ')
+print('my friend gym man ')
+'''
+
+python="welcome to first session"
+print(python,"venu")
+print("hello world")
+firstsession="datatypes 1.int,2.str,3.float,"
+print(firstsession)
+primitive="the data types can't change they are immutable"
+print(primitive)
